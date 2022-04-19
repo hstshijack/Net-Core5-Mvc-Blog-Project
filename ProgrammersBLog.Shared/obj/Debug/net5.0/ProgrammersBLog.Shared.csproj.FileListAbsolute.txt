@@ -1,0 +1,12 @@
+C:\Users\huseyin\source\repos\ProgrammersBlog\ProgrammersBLog.Shared\bin\Debug\net5.0\ProgrammersBLog.Shared.deps.json
+C:\Users\huseyin\source\repos\ProgrammersBlog\ProgrammersBLog.Shared\bin\Debug\net5.0\ProgrammersBLog.Shared.dll
+C:\Users\huseyin\source\repos\ProgrammersBlog\ProgrammersBLog.Shared\bin\Debug\net5.0\ref\ProgrammersBLog.Shared.dll
+C:\Users\huseyin\source\repos\ProgrammersBlog\ProgrammersBLog.Shared\bin\Debug\net5.0\ProgrammersBLog.Shared.pdb
+C:\Users\huseyin\source\repos\ProgrammersBlog\ProgrammersBLog.Shared\obj\Debug\net5.0\ProgrammersBLog.Shared.csproj.AssemblyReference.cache
+C:\Users\huseyin\source\repos\ProgrammersBlog\ProgrammersBLog.Shared\obj\Debug\net5.0\ProgrammersBLog.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huseyin\source\repos\ProgrammersBlog\ProgrammersBLog.Shared\obj\Debug\net5.0\ProgrammersBLog.Shared.AssemblyInfoInputs.cache
+C:\Users\huseyin\source\repos\ProgrammersBlog\ProgrammersBLog.Shared\obj\Debug\net5.0\ProgrammersBLog.Shared.AssemblyInfo.cs
+C:\Users\huseyin\source\repos\ProgrammersBlog\ProgrammersBLog.Shared\obj\Debug\net5.0\ProgrammersBLog.Shared.csproj.CoreCompileInputs.cache
+C:\Users\huseyin\source\repos\ProgrammersBlog\ProgrammersBLog.Shared\obj\Debug\net5.0\ProgrammersBLog.Shared.dll
+C:\Users\huseyin\source\repos\ProgrammersBlog\ProgrammersBLog.Shared\obj\Debug\net5.0\ref\ProgrammersBLog.Shared.dll
+C:\Users\huseyin\source\repos\ProgrammersBlog\ProgrammersBLog.Shared\obj\Debug\net5.0\ProgrammersBLog.Shared.pdb
